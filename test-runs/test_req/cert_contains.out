@@ -1,0 +1,56 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            1f:90:3d:58:0f:5b:a7:32:95:de:ea:e8:08:eb:c0:56:76:1f:0d:ff
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = AU, ST = Some-State, O = Internet Widgits Pty Ltd, CN = test
+        Validity
+            Not Before: Feb  6 07:47:15 2023 GMT
+            Not After : Mar  8 07:47:15 2023 GMT
+        Subject: CN = CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:96:9d:a4:3d:00:4b:1c:5f:c6:cb:dd:8f:d2:31:
+                    b2:88:15:cc:c4:86:2c:5c:e2:69:8b:84:f4:a7:a3:
+                    53:df:91:e3:bf:51:89:fb:f0:7c:10:0d:3b:ad:ac:
+                    35:62:75:f5:7f:ff:f4:6e:54:8f:05:a6:92:23:b3:
+                    9f:59:39:d0:39:18:b0:10:40:de:62:73:8a:4e:b0:
+                    8e:df:dc:e7:c9:41:22:54:84:80:08:29:bc:35:3c:
+                    86:df:30:de:dd:b4:24:ff:7e:62:a5:c0:7a:e8:2a:
+                    16:3f:d6:97:da:c5:42:db:2f:69:64:91:cb:08:d7:
+                    56:5a:79:7f:1b:84:41:e9:4d:9d:77:09:10:a8:6c:
+                    29:33:44:c6:c0:54:65:e6:e8:e3:f2:75:05:6a:64:
+                    95:6c:c0:f4:fd:25:61:6e:48:36:f0:c0:03:07:05:
+                    d6:7c:e5:11:fd:18:e8:4a:2d:d3:72:0c:37:28:36:
+                    31:31:38:85:e8:71:8d:d8:02:49:c8:bc:19:89:c5:
+                    8a:b1:3f:a2:35:ea:aa:90:1c:64:68:7b:af:67:6a:
+                    5a:06:54:0f:50:e1:f9:b4:f6:be:3a:d4:ce:3f:1e:
+                    4c:7d:c6:77:32:3e:a2:58:ed:db:dd:74:d8:92:14:
+                    6a:a8:f7:cb:34:58:91:a8:7c:14:b1:7d:08:b3:4d:
+                    b1:47
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Key Identifier: 
+                B4:11:33:F1:D7:E2:5E:F7:53:9E:20:22:10:4F:86:06:BF:1F:C9:5E
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        48:5d:ff:1c:a0:70:45:bd:d0:87:b0:71:83:f4:cc:7d:fb:cc:
+        1a:26:6d:95:6c:34:1f:4e:b9:7d:b0:01:f6:3c:f7:ec:1e:03:
+        ae:93:84:67:1f:7a:92:31:43:d7:36:85:16:d8:14:0e:80:db:
+        bb:69:5f:8f:9e:91:d2:7c:36:db:ab:02:9b:fd:1e:ee:7e:f1:
+        98:cb:a5:9f:97:89:4c:55:4d:9a:13:08:7a:4d:b6:27:ed:f3:
+        68:0a:10:5b:f9:9e:ca:ec:71:2d:62:6a:8b:13:47:e4:04:a5:
+        e8:50:2e:cc:e9:a9:cd:5b:9d:ba:94:ca:11:72:6b:7c:ff:80:
+        a7:5e:dd:e3:50:00:85:21:36:da:e0:bf:bd:58:12:29:67:f4:
+        a0:64:15:f1:9c:c2:40:88:1f:cf:e9:a2:e0:f9:98:b2:74:63:
+        04:13:58:69:7a:9d:f9:67:25:c9:76:ab:7d:aa:f6:77:7f:ab:
+        cb:b2:c3:59:e7:75:c3:2f:59:e8:4c:f2:ec:68:ee:dd:f4:e5:
+        56:a2:44:de:21:3f:99:fc:71:b5:e4:a0:5e:31:7f:b2:58:a5:
+        b6:45:a3:e7:75:7a:2d:6d:65:1c:90:2e:7a:55:14:0f:a5:c0:
+        c9:23:3b:09:b0:d9:a0:ac:2d:87:ac:a1:9a:8d:2b:62:bb:e2:
+        27:c1:08:85
